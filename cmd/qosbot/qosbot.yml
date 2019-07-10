@@ -1,0 +1,20 @@
+# qosbot
+# qos testnet capricorn-3000
+
+ticker: 30000
+
+node: tcp://localhost:26657
+
+chain_id: capricorn-3000
+
+validator_address: xxxxxx
+
+delegator_address: xxx
+
+secure_wallet_address: xxxxxx
+
+amount: 10000
+
+max-gas: 100000
+
+home: /home/qos/.qoscli
